@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > The Case Study is to analyse the Customer Finance Company applicants data by doing a EDA on all the customer attributes, loan attributes and to come up with driving factors which influence the Company's Loan Lending Risks.
 
 
