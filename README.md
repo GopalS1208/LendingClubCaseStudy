@@ -15,8 +15,8 @@
 - Business Use case
 	- Consumer Finance Company (CFC) specialises in lending various types of loans to urban customers. When the company receives a loan application,the company has to make a decision for loan approval based on the applicant’s profile. Borrowers who default cause the largest amount of loss to the lenders. One has to identify these risky loan applications, then such loans can be reduced by cutting down the credit loss. The company wants to understand the driving factors behind the loan default.
 - What is the business probem that your project is trying to solve?
-	- Loan Dataset.csv - (https://github.com/GopalS1208/gopalsprojects/blob/master/lcc_loan.csv)
-	- Data Dictionary - (https://github.com/GopalS1208/gopalsprojects/blob/master/Data_Dictionary.xlsx)
+	- Loan Dataset.csv - (https://github.com/GopalS1208/LendingClubCaseStudy/blob/main/lcc_loan.csv)
+	- Data Dictionary - (https://github.com/GopalS1208/LendingClubCaseStudy/blob/main/Data_Dictionary.xlsx)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
